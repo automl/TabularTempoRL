@@ -1,5 +1,16 @@
 # TempoRL
 
+Code for the BIG@ICML Workshop paper<BR>
+**Towards TempoRL: Learning When to Act**
+
+    @inproceedings{biedenkapp-bigicml20,
+      author    = {A. Biedenkapp and R. Rajan and F. Hutter and M. Lindauer},
+      title     = {Towards {T}empo{RL}: Learning When to Act},
+      booktitle = {Workshop on Inductive Biases, Invariances and Generalization in {RL} ({BIG@ICML}'20)},
+      year = {2020},
+      month     = jul,
+    }
+
 ## Setup
 You only need to install the dependencies
 ```bash
