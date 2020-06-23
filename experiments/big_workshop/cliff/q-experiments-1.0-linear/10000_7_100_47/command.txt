@@ -1,0 +1,1 @@
+/home/biedenka/when/skipRL/tabular_agents.py -e 10000 --env-length 6 --env-rr-prob 0.5 --env-max-steps 100 --seed 47 --out-dir /home/biedenka/when/skipRL/experiments/big_workshop/cliff/q-experiments-1.0-linear --agent q --agent-eps 1.0 --env lava --eval-eps 1 --no-render

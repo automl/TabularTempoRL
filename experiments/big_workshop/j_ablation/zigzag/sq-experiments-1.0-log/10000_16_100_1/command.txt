@@ -1,0 +1,1 @@
+/home/biedenka/when/skipRL/tabular_agents.py -e 10000 --env-max-steps 100 --seed 1 --out-dir /home/biedenka/when/skipRL/experiments/big_workshop/j_ablation/zigzag/sq-experiments-0.1-log --agent-eps-decay log --agent-eps 1.0 --env lava3 --eval-eps 1 --no-render --max-skips 16

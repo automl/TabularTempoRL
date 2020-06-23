@@ -1,0 +1,1 @@
+{"episodes": 10000, "out_dir": "/home/biedenka/when/skipRL/experiments/j_ablation/zigzag/sq-experiments-0.1-log", "out_dir_suffix": "paramsseed", "seed": 0, "env_ms": 100, "agent_eps_d": "log", "agent_eps": 1.0, "agent": "sq", "env": "lava3", "eval_eps": 1, "stochasticity": 0, "no_render": true, "max_skips": 3}

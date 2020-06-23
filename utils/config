@@ -1,0 +1,27 @@
+data:
+  local: "/home/biedenka/git/when/experiments"
+  remote: "/mhome/biedenka/when/skipRL/experiments"
+plotting:
+  color_map:
+    sq: 4
+    hq: 1
+    q: 2
+    hql0: 1
+    hql1: 3
+    sqv2: 0
+    sqv3: 0
+  palette: "colorblind"
+  seaborn:
+    style: "darkgrid"
+    context:
+      context: "paper"
+      font scale: 1
+      font: "Arial"
+      rc:
+        grid.linewidth: 4
+        axes.labelsize: 32
+        axes.titlesize: 32
+        legend.fontsize: 28
+        lines.linewidth: 4
+        xtick.labelsize: 32
+        ytick.labelsize: 32

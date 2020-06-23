@@ -1,0 +1,1 @@
+{"episodes": 10000, "out_dir": "/home/biedenka/when/skipRL/experiments/26_05_20/bridge/sq-experiments-1.0-linear", "out_dir_suffix": "paramsseed", "seed": 5, "env_ms": 100, "agent_eps_d": "linear", "agent_eps": 1.0, "agent": "sq", "env": "lava2", "eval_eps": 1, "stochasticity": 0, "env_l": 6, "env_rrp": 0.5, "no_render": true}

@@ -1,0 +1,1 @@
+{"episodes": 10000, "out_dir": "/home/biedenka/when/skipRL/experiments/26_05_20/cliff/q-experiments-0.1-const", "out_dir_suffix": "paramsseed", "seed": 1, "env_ms": 100, "agent_eps_d": "const", "agent_eps": 0.1, "agent": "q", "env": "lava", "eval_eps": 1, "stochasticity": 0, "env_l": 6, "env_rrp": 0.5, "no_render": true}

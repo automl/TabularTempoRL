@@ -1,0 +1,4 @@
+pyyaml
+seaborn
+matplotlib
+gym
